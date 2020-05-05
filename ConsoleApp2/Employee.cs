@@ -4,7 +4,7 @@
     {
         public Employee()
         {
-            public string NameFull { get; set; }
+            public int Age { get; set; }
     }
     }
 }
