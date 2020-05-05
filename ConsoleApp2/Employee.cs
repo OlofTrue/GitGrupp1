@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ConsoleApp2
+﻿namespace ConsoleApp2
 {
-    class Employee
+    internal class Employee
     {
-        public string Name { get; set; }
-
-        public double Salary { get; set; }
-
+        public Employee()
+        {
+            public string NameFull { get; set; }
+    }
     }
 }

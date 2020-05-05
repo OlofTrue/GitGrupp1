@@ -6,7 +6,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            emp = new Emplyee();
+            emp = new Employee();
             Console.WriteLine("Hello World!");
         }
     }
