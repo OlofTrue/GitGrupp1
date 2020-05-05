@@ -11,7 +11,7 @@ namespace ConsoleApp2
     {
 
         // This is the employee class
-        public string Name { get; set; }
+        public string Name = "wdwqeiu";
 
         //anderz dhwqeodhqwihqwidhgq efdpweofiweouwheouhweouvhwefvuhfgwdqwd
 
