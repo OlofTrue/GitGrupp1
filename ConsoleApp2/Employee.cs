@@ -4,11 +4,12 @@ using System.Text;
 
 namespace ConsoleApp2
 {
-    internal class Employee
+    public class Employee
     {
-        public Employee()
-        {
-            public int Age { get; set; }
-    }
+        public string EmplId { get; set; }
+
+        public DateTime EmpFrom { get; set; }
+
+
     }
 }
