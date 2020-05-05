@@ -11,7 +11,7 @@ namespace ConsoleApp2
     {
         public string Name { get; set; }
 
-        //anderz dhwqeodhqwihqwidhgq efdpweofiweouwheouhweouvhwefvuh
+        //anderz dhwqeodhqwihqwidhgq efdpweofiweouwheouhweouvhwefvuhfgwdqwd
 
         public double Salary { get; set; }
 
