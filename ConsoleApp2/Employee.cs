@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
+
+//anderz dhwqeodhqwihqwidhgq
+
 namespace ConsoleApp2
 {
     class Employee
@@ -9,6 +12,8 @@ namespace ConsoleApp2
 
         // This is the employee class
         public string Name { get; set; }
+
+        //anderz dhwqeodhqwihqwidhgq efdpweofiweouwheouhweouvhwefvuhfgwdqwd
 
         public double Salary { get; set; }
 
