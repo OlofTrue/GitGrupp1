@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Tirpitz\\.nuget\\packages\\": {}
+    "C:\\Users\\Anderz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tirpitz\\Source\\Repos\\GitGrupp1\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\Users\\Anderz\\source\\repos\\GitGrupp1final\\ConsoleApp2\\ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
-      "projectPath": "C:\\Users\\Tirpitz\\Source\\Repos\\GitGrupp1\\ConsoleApp2\\ConsoleApp2.csproj",
-      "packagesPath": "C:\\Users\\Tirpitz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tirpitz\\Source\\Repos\\GitGrupp1\\ConsoleApp2\\obj\\",
+      "projectPath": "C:\\Users\\Anderz\\source\\repos\\GitGrupp1final\\ConsoleApp2\\ConsoleApp2.csproj",
+      "packagesPath": "C:\\Users\\Anderz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anderz\\source\\repos\\GitGrupp1final\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tirpitz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anderz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
