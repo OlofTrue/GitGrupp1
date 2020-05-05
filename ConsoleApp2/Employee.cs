@@ -17,5 +17,7 @@ namespace ConsoleApp2
 
         public double Salary { get; set; }
 
+        // Hej hopp!
+
     }
 }
